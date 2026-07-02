@@ -44,7 +44,7 @@ GTM **cannot** natively detect when a user moves between steps in a JS-rendered 
   "step_name": "patient_details_entered",
   "clinic_location": "Koramangala, Bengaluru",
   "specialty": "Knee Replacement",
-  "preferred_date": "2025-07-15"
+  "preferred_date": "2026-07-15"
 }
 ```
 > Note: Do NOT push name/phone into dataLayer — PII must not flow into GA4.
@@ -57,7 +57,7 @@ GTM **cannot** natively detect when a user moves between steps in a JS-rendered 
   "step_name": "booking_confirmed",
   "clinic_location": "Koramangala, Bengaluru",
   "specialty": "Knee Replacement",
-  "preferred_date": "2025-07-15",
+  "preferred_date": "2026-07-15",
   "booking_id": "ON-20250715-0042"
 }
 ```
